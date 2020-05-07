@@ -1,6 +1,8 @@
 ## List of file signatures
 > From Wikipedia, [https://en.wikipedia.org/wiki/List_of_file_signatures](https://en.wikipedia.org/wiki/List_of_file_signatures)
 
+[Online file type check](http://checkfiletype.com/)
+
 
 |  [Hex](https://en.wikipedia.org/wiki/Hexadecimal) signature  |                 ISO 8859-1                 | [Offset](https://en.wikipedia.org/wiki/Offset_(computer_science)) | [Filename extension](https://en.wikipedia.org/wiki/Filename_extension) |                         Description                          |
 | :----------------------------------------------------------: | :----------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
